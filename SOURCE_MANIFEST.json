@@ -36,8 +36,8 @@
   },
   {
     "file": "docs/RELEASE_STATEMENT.md",
-    "bytes": 2046,
-    "sha256": "0c5c5220eec6d7b20874520cdbbb782f640556602e3c984b0bbd4310345523ef"
+    "bytes": 2955,
+    "sha256": "229dd859ad0a1b95c66eb966b48cc70f7334f088439ccd20cb8ef821079e0c86"
   },
   {
     "file": "emotion_diffusion/__init__.py",
