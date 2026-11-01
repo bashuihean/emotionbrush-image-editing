@@ -1,0 +1,16 @@
+{
+  "samples": 3299,
+  "expected_samples": 3299,
+  "complete": true,
+  "accuracy": 0.6035162210464478,
+  "balanced_accuracy": 0.6031415462493896,
+  "macro_f1": 0.5878220796585083,
+  "emo_a_new_B": 60.351622104644775,
+  "emo_a_legacy_resnet": 22.916035162170353,
+  "reference_emo_a_B": 49.2270384965141,
+  "original_target_match_B": 12.549257350712336,
+  "ssim": 0.6361621848529724,
+  "clip_i": 0.9153155146059971,
+  "dino_similarity": 0.887945560640767,
+  "esmi_legacy": 0.32571776263205776
+}

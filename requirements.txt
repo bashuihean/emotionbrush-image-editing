@@ -1,0 +1,12 @@
+# Recorded training versions; select the CUDA PyTorch wheel for your hardware.
+torch==2.10.0
+torchvision==0.25.0
+transformers==4.49.0
+diffusers==0.37.0
+accelerate==1.13.0
+numpy==2.2.6
+Pillow==12.1.1
+safetensors==0.7.0
+huggingface-hub==0.36.2
+tqdm==4.67.3
+# BiRefNet remote model may additionally require its own dependencies.

@@ -1,0 +1,8 @@
+[
+  {
+    "image": "data/images/source_001.png",
+    "reference_image": "data/references/sadness_001.png",
+    "target_emotion": "sadness",
+    "paired_target_available": false
+  }
+]

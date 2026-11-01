@@ -1,0 +1,202 @@
+[
+  {
+    "file": ".gitignore",
+    "bytes": 132,
+    "sha256": "caab10f1e60717ef3e8fb5c22c3d36eb46468b26d512c4f0206c7b99d456b1a6"
+  },
+  {
+    "file": "configs/train.example.json",
+    "bytes": 1835,
+    "sha256": "2a2c9f7daa18c9a7c165ab2a94aae059ee78f60dbc0b1065e830bb632bac8cfe"
+  },
+  {
+    "file": "COPYRIGHT.md",
+    "bytes": 968,
+    "sha256": "b3b8be9620ddca4c325075123c0fa5579e831d96da03122189824bdf996edc2a"
+  },
+  {
+    "file": "docs/CONTRIBUTIONS.md",
+    "bytes": 2593,
+    "sha256": "1ee20866aceeebaba8754901c77cabde86e0890ba377bc03a3e8d879407a748a"
+  },
+  {
+    "file": "docs/EVALUATION.md",
+    "bytes": 1963,
+    "sha256": "64b91c65354c422a1cf200ba8b35e14bf9b7b5d0b078c281f5b0872b7bb34cb1"
+  },
+  {
+    "file": "docs/historical_test_scalars.json",
+    "bytes": 509,
+    "sha256": "68dff08eb6a8f96015a8e29351ff7c526857259597b17062224c7612dee2318c"
+  },
+  {
+    "file": "docs/RELEASE_CHECKLIST.md",
+    "bytes": 926,
+    "sha256": "028a75512f7de41ba65483d207239e98bcf23a92c99f6c892c9d17e27ba24050"
+  },
+  {
+    "file": "docs/RELEASE_STATEMENT.md",
+    "bytes": 1332,
+    "sha256": "fc44ea08b1e9bae471bc08070cd31904273b96aeba3c3552898c39e1012744e1"
+  },
+  {
+    "file": "emotion_diffusion/__init__.py",
+    "bytes": 54,
+    "sha256": "e54b643bfe61d3b42640002f27edd973a6f1d2aed42bb0a7d0f7200888b4bb0c"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/__init__.py",
+    "bytes": 91,
+    "sha256": "6b112e93c9be71274602e3607f51eebf06ab9301914abe843f9a316e9e28523f"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/ablation.py",
+    "bytes": 8919,
+    "sha256": "ed706084cc83091ca4cace7ae02adfd3cc0c53eb8b938e5e69fe2236630033af"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/appearance.py",
+    "bytes": 5010,
+    "sha256": "fb7b84fdc43f6472fa817ba9a920a19c57f18bc3a0d8c8ef2064718fdc881d97"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/assets.py",
+    "bytes": 1687,
+    "sha256": "b14cbc856a9d2d899ab9d0b4c05a492d127a4118ff11a21c660aef16377fa697"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/brush.py",
+    "bytes": 2261,
+    "sha256": "f35e181e3dbb3574ede6cfd9d8809320f1a077e607b0406fe90b7e088baef58e"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/classifiers.py",
+    "bytes": 6699,
+    "sha256": "7f78f871350b41fcc2ab24044c54fe2f799f841a4250c51d506879698c217383"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/customer_test.py",
+    "bytes": 8882,
+    "sha256": "0c41226645ce4a94537cb7fffa07e7dd43160361fc7e543e72e82c2eada853fc"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/customer_test_setup.py",
+    "bytes": 4889,
+    "sha256": "d51070697546d79de2ad999d7d2c7ba0c4d34ff7c0418902f101d3e71522a209"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/data.py",
+    "bytes": 3604,
+    "sha256": "92a15768989e4182b8d8e85bfcd91b8d158cb800a446219cc85178e277aa7eee"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/diagnose.py",
+    "bytes": 3364,
+    "sha256": "ba44d757c3370b0ba4665969ceaefff59d2106aeb94b3fe8f8583164bccf1d71"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/infer.py",
+    "bytes": 2795,
+    "sha256": "f63056f857e8a54d0f5b8cb068371f0ceb2119313a24eb8c47c2a95620c39a6f"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/launch_clean.py",
+    "bytes": 1612,
+    "sha256": "b01647a61a89c7a760a4de0e0c36b39dc0d633581a539b767ce1bae2f8e67291"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/launch_edit.py",
+    "bytes": 1681,
+    "sha256": "9d08b85390ae6dab6fe33c055937fcf8cedd8ac689da326ac22cfde57be85492"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/losses.py",
+    "bytes": 3228,
+    "sha256": "dd46ec6cde5cadebf3cdab77d51635c06737d5ad7bc29713b7788b423b524142"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/metrics.py",
+    "bytes": 3619,
+    "sha256": "4a0affdf7cfd3b07d225eec096d33d48319e513cebbb14d0668b61d8fb84e683"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/model.py",
+    "bytes": 18846,
+    "sha256": "a64e49a0692eb0ca697f699dc9f52cefa851093330d0563aca2cc0c5eb262057"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/photometric.py",
+    "bytes": 2645,
+    "sha256": "781869c470c3d66ff93ff101fa725610ff2af57d8efed8c19bbc47ee2bce6e50"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/pipeline.py",
+    "bytes": 1497,
+    "sha256": "7a39738017cb86f6d4278286b432bdb78b37a36e36d96a73554927844ffa3482"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/prepare.py",
+    "bytes": 7585,
+    "sha256": "947f492ac155a25af87cac311fb5b0e9b61829692e5309074366285660d0cfbd"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/preservation.py",
+    "bytes": 1120,
+    "sha256": "5dd4de5d85708a6a300b539b2854d88afe945452db9ad71296ed8333ae18c7bd"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/quality.py",
+    "bytes": 2669,
+    "sha256": "ee2f8b2da5a3f60397947d3476e8b10e3476f88caebe3403fbfbf53b1b9e8c38"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/README.md",
+    "bytes": 131,
+    "sha256": "e9e9224b7ef31a6c1e9fa162c8e3ba855218bedec39a3b2d1f190d9634208e75"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/resume.py",
+    "bytes": 1788,
+    "sha256": "981395223563bd216b0db214224f2a001c1f70bd97e6f5299999854786325d98"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/run_ablations.py",
+    "bytes": 2259,
+    "sha256": "07a2dd480788329ae5728ec88fcd90beeb1d4fc828b875a445b431d72046f3dd"
+  },
+  {
+    "file": "emotion_diffusion/reference_v19/train.py",
+    "bytes": 18268,
+    "sha256": "6a741dda0818a4e4be3f75a47421c1bd0670b968bfcf27216fd3cc2b1e59ad99"
+  },
+  {
+    "file": "emotion_diffusion/spatial_model.py",
+    "bytes": 1049,
+    "sha256": "edf5953ecee5e9dc67e57014b1975d633b4b9d4d112b8f4bcf35edd496a3205c"
+  },
+  {
+    "file": "examples/manifest.example.json",
+    "bytes": 191,
+    "sha256": "6d8da923700ed7871774239b567adcd79d5ca9c323722553cd97ae91a43658f6"
+  },
+  {
+    "file": "publication_audit.json",
+    "bytes": 1558,
+    "sha256": "7d44c1664e8350a756151dfe754843d57dff049ad131945e519ef50678833ea3"
+  },
+  {
+    "file": "README.md",
+    "bytes": 5718,
+    "sha256": "12d57b822ced0a469baf1f197696120b668b8bc02e9740b49019eeac288b36cd"
+  },
+  {
+    "file": "requirements.txt",
+    "bytes": 338,
+    "sha256": "7c7a8020d5a523ab6f96a7870037a19f9b454a3ead1e0cfd84c4b7030c001e2a"
+  },
+  {
+    "file": "THIRD_PARTY.md",
+    "bytes": 1710,
+    "sha256": "7608247ab956312b2b1ad534ea56bc4c111f62d0196378026de9cb55cfef71c8"
+  }
+]
